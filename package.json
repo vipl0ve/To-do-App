@@ -1,7 +1,7 @@
 {
-  "name": "irecommend",
+  "name": "To-do-App",
   "version": "1.0.0",
-  "description": "It recommends!",
+  "description": "This is a To-do-App!",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
