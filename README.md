@@ -1,1 +1,1 @@
-# This is to-do App using Node.js #
+# To-do App using Node.js #
