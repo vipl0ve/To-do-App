@@ -1,0 +1,26 @@
+{
+  "name": "irecommend",
+  "version": "1.0.0",
+  "description": "It recommends!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viplove Prakash",
+  "license": "MIT",
+  "devDependencies": {
+    "ws": "3.3.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "pg": "^6.4.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.34.0",
+    "sequelize-cli": "^5.4.0"
+  }
+}
